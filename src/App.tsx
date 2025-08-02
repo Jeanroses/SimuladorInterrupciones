@@ -13,7 +13,7 @@ function App() {
     }`;
 
   return (
-    <Router>
+    <Router basename="/SimuladorInterrupciones">
       <div className="min-h-screen bg-gray-50">
         {/* Header */}
         <header className="bg-white shadow-sm border-b">
